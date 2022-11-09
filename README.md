@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edward-jo&label=Profile%20views&color=0e75b6&style=flat" alt="edward-jo" /> </p>
 -->
 
-- 🔭 I’m currently working on **Dance Machine** and **Fast Bookmarks** in Android and Flutter.
+- 🔭 I’m currently working on **Dance Machine** and **Fast Bookmarks** with Android and Flutter.
 
-- 🌱 I’m currently learning **Flutter** and **Firebase Cloud Functions**
+- 🌱 I’m currently learning **Flutter** and **Firebase Cloud Functions**.
 
-- 👯 I’m looking to collaborate with **Android & Flutter developers**
+- 👯 I’m looking to collaborate with **other Android & Flutter developers**.
 
 - 📫 How to reach me **helloedwardjo@gmail.com**
 
