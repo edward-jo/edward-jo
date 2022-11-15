@@ -37,5 +37,6 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edward-jo&show_icons=true&locale=en&layout=compact" alt="edward-jo" /></p>
 -->
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edward-jo&show_icons=true&locale=en" alt="edward-jo" /></p>
+-->
