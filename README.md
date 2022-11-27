@@ -7,9 +7,9 @@
 <!--
 - 🔭 I’m currently working on **Dance Machine** and **Fast Bookmarks** with Android and Flutter.
 -->
-- 🌱 I’m currently learning **Flutter** and **Firebase Cloud Functions**.
+- 🌱 I’m currently learning **Flutter**.
 
-- 👯 I’m looking to collaborate with **other Android & Flutter developers**.
+- 👯 I’m looking to collaborate with **other Flutter and Android developers**.
 
 - 📫 How to reach me **helloedwardjo@gmail.com**
 
